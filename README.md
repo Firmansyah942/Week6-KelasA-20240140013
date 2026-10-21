@@ -1,4 +1,18 @@
-<img width="1905" height="1078" alt="image" src="https://github.com/user-attachments/assets/b362a471-a4b7-4709-be34-b038442de5ac" />
+# Week 6 - Fetch API & Form DOM / Event Handling
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8ab3e637-a33c-44e7-88d5-299f50354a76" />
+Tugas individu PAW Week 6.
 
+## Fitur
+
+1. **Fetch API** - Mengambil data produk dari `https://dummyjson.com/products`, menampilkan nama, harga, gambar, dan kategori; lengkap dengan status loading, penanganan error, serta tombol interaktif.
+2. **Form Pendaftaran / Input** - Validasi input menggunakan event DOM, penanganan `submit` dengan `preventDefault`, serta menampilkan hasil umpan balik secara dinamis dan tombol `reset`.
+
+## Struktur
+
+```text
+index.html
+style.css
+script.js
+
+Cara Menjalankan
+Buka file index.html di browser menggunakan Live Server (butuh koneksi internet untuk memuat data Fetch API).
